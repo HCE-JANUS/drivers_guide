@@ -2,6 +2,8 @@
 #+TITLE: HCE Driver's Guide
 #+AUTHOR: Janus Developmental Services — Transportation
 #+DATE: 2026
+#+HTML_HEAD: <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+#+HTML_HEAD: <script>mermaid.initialize({startOnLoad:true});</script>
 
 * Before Your Shift
 
@@ -100,6 +102,42 @@ Securement procedure to be documented. See also: [[*Lift Operations][Lift Operat
 
 ** Accidents
 Any accident, no matter how minor, must be reported to management immediately. Complete an accident report before the end of your shift.
+
+Use the decision tree below to determine whether drug and alcohol testing is required under FTA authority:
+
+#+BEGIN_EXPORT html
+<div class="mermaid">
+flowchart TD
+    A([ACCIDENT]) --> B["Did the accident involve a revenue service vehicle,\nwhether in or out of revenue service?"]
+    B -->|No| NT1["No test required — document"]
+    B -->|Yes| C["Was the occurrence associated with\nthe manner of operation?"]
+    C -->|No| NT1
+    C -->|Yes| D["Was there a fatality?"]
+    D -->|Yes| TASAP1["Test ASAP\nDriver + any SS employee\nwho could have contributed"]
+    D -->|No| E["Was anyone immediately transported\nto a medical treatment facility?"]
+    E -->|"Yes — Operator"| F["Can the operator's performance be completely\ndiscounted as a contributing factor?"]
+    E -->|"Yes — Other SS Employee"| G["Could any other SS employee\nhave contributed to the accident?"]
+    E -->|No| H["Was there disabling damage\nto any vehicle?"]
+    F -->|Yes| NT2["No test required — document"]
+    F -->|No| TASAP2["Test ASAP"]
+    G -->|Yes| TASAP3["Test ASAP"]
+    G -->|No| NT3["No test required — document"]
+    H -->|Yes| F
+    H -->|No| NT4["No test required — document"]
+</div>
+#+END_EXPORT
+
+#+BEGIN_QUOTE
+*Disabling Damage* — damage that precludes departure of a motor vehicle from the scene in its usual manner in daylight after simple repairs. Excludes: temporary roadside repairs, tire replacement without other damage, headlamp or tail light damage, or damage to signals/horn/wipers.
+
+*Contributing Factor* — determined by the company official investigating the accident, not the police officer's fault determination. This determination must be based on the best available information at the time and should not be made hastily.
+#+END_QUOTE
+
+For your files: attach test results summary, order to test, Custody and Control Form (USDOT), and alcohol testing form (USDOT).
+
+Timing requirements:
+- Alcohol test must be performed within *2 hours* of the accident.
+- Drug test must be performed within *32 hours* of the accident.
 
 ** Incident Reports
 Complete an incident report for any unusual event involving a passenger, vehicle, or third party.

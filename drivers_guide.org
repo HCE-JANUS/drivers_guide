@@ -35,6 +35,15 @@ Vehicle-specific photo guides (with callouts) coming soon. Each bus model will h
 ** How to Tell if a Rider is Cash or eWallet
 Open the rider's trip card in Spare Driver. The payment method is displayed on the trip detail screen. Cash riders must pay with exact change. eWallet riders have their fare deducted automatically — do not collect cash from them unless they are making a top-off payment.
 
+Spare Driver offers three fare types:
+
+- *Billed Through Account* — the rider's fare is billed directly to their organization (e.g. Janus). No cash is collected.
+- *Cash* — the rider pays $3.00 exact change at the time of the trip.
+- *eWallet* — the fare is deducted from the rider's eWallet balance automatically.
+
+#+ATTR_HTML: :width 300px :alt Spare Driver fare type selection screen
+[[file:images/fare_type_selection.png]]
+
 ** Collecting Fares
 - Passengers must have exact change. The standard fare is $3.00.
 - If a rider does not have exact change, contact dispatch and note the excess amount as a top-off.

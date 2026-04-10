@@ -131,7 +131,6 @@ flowchart TD
 
 *Disabling Damage* — damage that precludes departure of a motor vehicle from the scene in its usual manner in daylight after simple repairs. Excludes: temporary roadside repairs, tire replacement without other damage, headlamp or tail light damage, or damage to signals/horn/wipers.
 
-*Contributing Factor* — determined by the company official investigating the accident, not the police officer's fault determination. This determination must be based on the best available information at the time and should not be made hastily.
 #+END_QUOTE
 
 For your files: attach test results summary, order to test, Custody and Control Form (USDOT), and alcohol testing form (USDOT).

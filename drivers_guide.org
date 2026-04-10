@@ -362,6 +362,13 @@ App store link and login steps to be documented.
 
 Recent updates and notices from transportation management. Items here are incorporated into the relevant guide sections on a rolling basis.
 
+** ⚠ DO NOT UPDATE Spare Driver — April 10, 2026
+/Posted April 10, 2026/
+
+*Do not update Spare Driver to v2.75 at this time.* A bug has been identified in the new version that affects fare type selection. When attempting to change the fare type, all options display as =$3.00= and the fare type field appears blank. This makes it impossible to correctly assign fare types to trips.
+
+Hold off on updating until a bug fix is released. If you have already updated, contact dispatch immediately.
+
 ** Spare Driver App v2.75 — April 2026
 /Posted April 10, 2026/
 

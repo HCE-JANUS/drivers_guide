@@ -335,6 +335,7 @@ App store link and login steps to be documented.
 Recent updates and notices from transportation management. Items here are incorporated into the relevant guide sections on a rolling basis.
 
 ** Spare Driver App v2.75 — April 2026
+/Posted April 10, 2026/
 
 A new version of Spare Driver (v2.75) is available. *This update must be triggered manually.*
 

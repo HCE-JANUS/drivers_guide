@@ -103,7 +103,7 @@ Securement procedure to be documented. See also: [[*Lift Operations][Lift Operat
 ** Accidents
 Any accident, no matter how minor, must be reported to management immediately. Complete an accident report before the end of your shift.
 
-Use the decision tree below to determine whether drug and alcohol testing is required under FTA authority:
+The manager on duty uses the decision tree below to determine whether drug and alcohol testing is required under FTA authority:
 
 #+BEGIN_EXPORT html
 <div class="mermaid">

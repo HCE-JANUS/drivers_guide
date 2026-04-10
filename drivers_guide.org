@@ -39,7 +39,7 @@ Open the rider's trip card in Spare Driver. The payment method is displayed on t
 - Passengers must have exact change. The standard fare is $3.00.
 - If a passenger does not have exact change, any overpayment is applied to their eWallet balance.
 
-*Important — watch for payment method changes:* When Spare detects a balance in a rider's eWallet, it may automatically change their default payment method from Cash to eWallet. If this happens while the rider is still on board or immediately after payment, notify dispatch right away so they can reset the rider's default payment method back to Cash before their next trip. This prevents the rider from being charged twice.
+*Important:* When a rider overpays, note the exact time and report it to dispatch. Spare may automatically switch the rider's default payment method from Cash to eWallet when it detects the balance, which can result in the rider being charged twice on a future trip. Dispatch needs this information to monitor and correct the issue.
 
 ** eWallet Top-Offs
 If a rider gives you cash or a check to add to their eWallet balance:

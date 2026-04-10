@@ -101,8 +101,25 @@ Securement procedure to be documented. See also: [[*Lift Operations][Lift Operat
 * Forms and Reporting
 
 ** Accidents
-Any accident, no matter how minor, must be reported to management immediately. Complete an accident report before the end of your shift.
 
+*** Accident Prevention
+#+BEGIN_QUOTE
+*For Ben:* Is avoiding backing up a formal policy or a general safety guideline? Any other prevention points to include here?
+#+END_QUOTE
+
+*** Immediately After an Accident
+Any accident, no matter how minor, must be reported to management immediately.
+#+BEGIN_QUOTE
+*For Ben:* What are the immediate steps? e.g. Stay on scene, call 911, call management, secure passengers, do not move the vehicle? In what order?
+#+END_QUOTE
+
+*** Post-Accident Investigation and Follow-Up
+Complete an accident report before the end of your shift.
+#+BEGIN_QUOTE
+*For Ben:* What does the post-accident investigation process look like from the driver's perspective? What should they expect to happen?
+#+END_QUOTE
+
+*** Drug and Alcohol Testing
 The manager on duty uses the decision tree below to determine whether drug and alcohol testing is required under FTA authority:
 
 #+BEGIN_EXPORT html
@@ -138,6 +155,16 @@ For your files: attach test results summary, order to test, Custody and Control 
 Timing requirements:
 - Alcohol test must be performed within *2 hours* of the accident.
 - Drug test must be performed within *32 hours* of the accident.
+
+*** Supplemental Discipline
+#+BEGIN_QUOTE
+*For Ben:* What triggers supplemental discipline following an accident? Is it based on the contributing factor determination, severity, or other criteria?
+#+END_QUOTE
+
+*** Post-Accident Retraining
+#+BEGIN_QUOTE
+*For Ben:* Who assigns retraining, what does it typically involve, and is it separate from the discipline process?
+#+END_QUOTE
 
 ** Incident Reports
 Complete an incident report for any unusual event involving a passenger, vehicle, or third party.
@@ -206,12 +233,14 @@ When fueling, you will be prompted to enter the current mileage at the pump. Use
 Buses must be returned with at least a half tank of fuel. If fueling is needed at the end of your shift, use the nearest available station with the appropriate fleet card and your personal gas code.
 
 ** Mid-Shift Fueling
-If the fuel level falls below *3/16 of a tank* during your shift:
-1. Contact dispatch and get approval to fuel.
-2. Proceed to the nearest available station.
-3. Use the fleet card and your personal gas code.
+Fueling during the day is encouraged to avoid running low during peak service hours. Our busiest times are *7:00–9:00 AM* and *2:00–5:00 PM* — plan to fuel outside those windows whenever possible.
 
-Do not fuel mid-shift without dispatch approval.
+If the fuel level falls below *3/16 of a tank*:
+1. Proceed to the nearest available station when your schedule allows.
+2. Use the fleet card and your personal gas code.
+3. Enter the current mileage at the pump.
+
+*Drivers are prohibited from fueling with a rider on board.* If you are critically low on fuel and have riders on your schedule, call dispatch immediately so they can help clear your schedule before you fuel.
 
 * Ongoing Maintenance Responsibilities
 

@@ -123,12 +123,16 @@ flowchart TD
     F -->|No| TASAP2["Test ASAP"]
     G -->|Yes| TASAP3["Test ASAP"]
     G -->|No| NT3["No test required — document"]
-    H -->|Yes| F
+    H -->|Yes| F2["Can the operator's performance be completely\ndiscounted as a contributing factor?"]
     H -->|No| NT4["No test required — document"]
+    F2 -->|Yes| NT5["No test required — document"]
+    F2 -->|No| TASAP4["Test ASAP"]
 </div>
 #+END_EXPORT
 
 #+BEGIN_QUOTE
+*SS — Safety-Sensitive Employee* — any employee whose position requires a commercial driver's license or who performs safety-sensitive functions, including vehicle operators and dispatchers.
+
 *Disabling Damage* — damage that precludes departure of a motor vehicle from the scene in its usual manner in daylight after simple repairs. Excludes: temporary roadside repairs, tire replacement without other damage, headlamp or tail light damage, or damage to signals/horn/wipers.
 
 *Contributing Factor* — determined by the company official investigating the accident, not the police officer's fault determination. This determination must be based on the best available information at the time and should not be made hastily.
